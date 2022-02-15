@@ -1,6 +1,6 @@
 # Madison Kendall Professional Portfolio
 
-## Decrription
+## Description
 This is my portfolio
 
 ## Madison Kendall MSU second challenge
