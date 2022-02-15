@@ -1,4 +1,4 @@
-# Madison Kendall professional portfolio
+# Madison Kendall Professional Portfolio
 
 ## Decrription
 This is my portfolio
