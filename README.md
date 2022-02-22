@@ -14,3 +14,4 @@ Further my understanding in HTML and CSS
 - CSS
 
 ## Live URL
+ https://marathonsandsushi.github.io/madison-kendall-professional-portfolio/
